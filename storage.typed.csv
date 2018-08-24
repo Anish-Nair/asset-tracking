@@ -1,0 +1,11 @@
+PartitionKey,RowKey,Timestamp,name,name@type,code,code@type,cost,cost@type,vendorid,vendorid@type,color,color@type
+16,3ef5f387-4e7d-481a-b00d-329ffdf646ef,2017-03-10T02:00:54.978Z,"ML Mountain Frame-W - Silver, 46",Edm.String,FR-M63S-46,Edm.String,199,Edm.Int32,16,Edm.Int32,Silver,Edm.String
+16,c3053569-565a-4eba-98e4-9d02a8d22c9f,2017-03-10T02:00:54.978Z,"HL Mountain Frame - Silver, 46",Edm.String,FR-M94S-46,Edm.String,747,Edm.Int32,16,Edm.Int32,Silver,Edm.String
+17,091d5eba-fc60-4b40-97aa-c2a6e2cca1e8,2017-03-10T02:00:55.287Z,LL Road Pedal,Edm.String,PD-R347,Edm.String,18,Edm.Int32,17,Edm.Int32,Silver/Black,Edm.String
+18,f5484263-e9f7-4ce4-8aab-bfea1cebffae,2017-03-10T02:00:55.408Z,"LL Road Frame - Black, 62",Edm.String,FR-R38B-62,Edm.String,205,Edm.Int32,18,Edm.Int32,Black,Edm.String
+5,eee266f1-3544-4c4c-85e4-0c9bf9994d0f,2017-03-10T02:00:55.107Z,"Mountain-300 Black, 44",Edm.String,BK-M47B-44,Edm.String,598,Edm.Int32,5,Edm.Int32,Black,Edm.String
+6,02694346-3bb0-4895-b9ae-dbabcb8d86b5,2017-03-10T02:00:55.149Z,"Road-650 Red, 44",Edm.String,BK-R50R-44,Edm.String,487,Edm.Int32,6,Edm.Int32,Red,Edm.String
+6,0d496ee6-8029-4b0a-883c-b7d2c8269426,2017-03-10T02:00:55.149Z,"Road-250 Black, 48",Edm.String,BK-R89B-48,Edm.String,1555,Edm.Int32,6,Edm.Int32,Black,Edm.String
+6,8cac42ae-9400-41be-9ac7-3d4a38b2c8ec,2017-03-10T02:00:55.149Z,"Road-150 Red, 52",Edm.String,BK-R93R-52,Edm.String,2171,Edm.Int32,6,Edm.Int32,Red,Edm.String
+7,777e57d4-5561-4dd9-aa3d-aab93d3d7084,2017-03-10T02:00:54.830Z,"Touring-3000 Blue, 50",Edm.String,BK-T18U-50,Edm.String,461,Edm.Int32,7,Edm.Int32,Blue,Edm.String
+7,874db009-4fff-46fa-9b2e-5b452172fc8a,2017-03-10T02:00:54.830Z,"Touring-2000 Blue, 46",Edm.String,BK-T44U-46,Edm.String,755,Edm.Int32,7,Edm.Int32,Blue,Edm.String
